@@ -12,5 +12,4 @@ emily.sampaio@escola.pr.gov.br
 
 @emiilyrsampaio
 
-![]()
-https://media.tenor.com/C2fEiayc_0EAAAAi/peachcat-cat.gif
+![](https://media.tenor.com/C2fEiayc_0EAAAAi/peachcat-cat.gif)
